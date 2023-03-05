@@ -5,8 +5,6 @@ const App = () => {
       <h1>hiiiiiiiiii</h1>
       <h1>hiiiiiiiiii</h1>
       <h1>hiiiiiiiiii</h1>
-
-
     </>
   )
 }
